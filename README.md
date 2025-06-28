@@ -16,11 +16,14 @@ Una guía interactiva dividida en módulos progresivos, que incluye:
 * 🌐 **Qué es GitHub y cómo aprovecharlo**
 * 🚀 **Configuración inicial y primeros pasos**
 * 🔄 **Manejo de repositorios: local y remoto**
+* 📥 **Cómo clonar y descargar repositorios**
+* 🌱 **Uso y gestión de ramas de trabajo**
+* ⚔️ **Cómo resolver conflictos de Git**
 * 🛠️ **Comandos esenciales de Git**
 * 👥 **Flujo de trabajo colaborativo**
 * 💡 **Buenas prácticas en control de versiones**
 
-Todo explicado de forma sencilla, paso a paso y con ejemplos prácticos.
+Todo explicado de forma sencilla, paso a paso.
 
 ---
 
@@ -49,10 +52,13 @@ Cada módulo incluye:
 ## 📦 Estructura del repositorio
 
 ```bash
+.
 ├── README.md
 ├── 01_Control_Versiones.md
 ├── 02_Manejo_Repositorios.md
-├── 03_Proximamente.md
+├── 03_Descargar_Repositorios.md
+├── 04_Ramas_Trabajo.md
+├── 05_Conflictos_Git.md
 ├── LICENSE.md
 ```
 

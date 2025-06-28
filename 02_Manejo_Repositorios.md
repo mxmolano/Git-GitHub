@@ -1,8 +1,6 @@
 # 02. Manejo de Repositorios
 
----
-
-### 📌 ¿Qué es un repositorio de Git?
+## 📌 ¿Qué es un repositorio de Git?
 
 Un **repositorio de Git** es una carpeta en el computador que contiene una subcarpeta llamada `.git`, donde se almacena toda la información relacionada con las versiones del proyecto.  
 Esta subcarpeta suele estar oculta por defecto, pero se puede visualizar utilizando el comando:
@@ -13,7 +11,7 @@ dir /a
 
 ---
 
-### 📌 Áreas de Git
+### Áreas de Git
 
 1. **Área de trabajo** → Lo que estamos modificando actualmente
 2. **Área de staging** → Cambios preparados para ser guardados (pero aún no en historial)
@@ -21,14 +19,14 @@ dir /a
 
 ---
 
-### 📌 Repositorios locales y remotos
+## 👀 Repositorios locales y remotos
 
 * **Local** → En el computador personal (desarrollo, pruebas, commits)
 * **Remoto** → En un servidor (GitHub, GitLab, Bitbucket) — acceso compartido
 
 ---
 
-### 📌 Creación de repositorios
+## 📌 Creación de repositorios
 
 Pasos básicos:
 
@@ -47,39 +45,11 @@ Pasos básicos:
    ```
 
 ---
-
-### 📌 Descargar repositorios
-
-Para clonar un repositorio remoto:
-
-```bash
-git clone https://github.com/tuusuario/tu-repo.git
-```
-
----
-
-### 📌 Actualización de repositorio
-
-Enviar cambios locales al repositorio remoto:
-
-```bash
-git push origin main
-```
-
-Recibir cambios desde el remoto:
-
-```bash
-git pull origin main
-```
-
----
-
-### 📌 Comandos útiles de Git
+## 🔑 Comandos Claves de Git
 Esta sección contiene los comandos más comunes que vas a utilizar en tu trabajo diario con Git y GitHub, organizados por categorías.  
 Cada comando va explicado, con su función y un ejemplo del posible resultado.
 
 ---
-
 #### 🖥️ 1. Navegación en terminal (Windows)
 
 Cambia de carpeta
@@ -91,10 +61,8 @@ Lista todos los archivos y carpetas (incluyendo ocultos, como .git)
 ```bash
 dir /a
 ```
-
 ---
-
-## 🗂️ 2. Inicialización de repositorio Git
+#### 🗂️ 2. Inicialización de repositorio Git
 
 Inicializa un repositorio Git en la carpeta actual
 ```bash
@@ -105,7 +73,7 @@ git init
 
 ---
 
-## 🔍 3. Estado del repositorio
+#### 🔍 3. Estado del repositorio
 
 Muestra el estado actual del repositorio
 ```bash
@@ -120,7 +88,7 @@ git status
 
 ---
 
-## ➕ 4. Preparar archivos (Staging)
+#### ➕ 4. Preparar archivos (Staging)
 
 Agrega un archivo específico al staging
 ```bash
@@ -138,7 +106,7 @@ git add .
 
 ---
 
-## 💾 5. Guardar cambios (Commit)
+#### 💾 5. Guardar cambios (Commit)
 
 Guarda los cambios preparados en un commit con mensaje
 ```bash
@@ -151,7 +119,7 @@ git commit -m "mensaje del commit"
 
 ---
 
-## 📜 6. Ver historial de commits
+#### 📜 6. Ver historial de commits
 Muestra el historial de commits
 ```bash
 git log
@@ -161,7 +129,7 @@ git log
 
 ---
 
-## 🌿 7. Gestión de ramas
+#### 🌿 7. Gestión de ramas
 
 Renombra la rama actual a 'main'
 ```bash
@@ -171,7 +139,7 @@ git branch -m main
 
 ---
 
-## 🌐 8. Repositorio remoto (GitHub)
+#### 🌐 8. Repositorio remoto (GitHub)
 
 Agrega un repositorio remoto (GitHub)
 ```bash
@@ -188,5 +156,3 @@ git push -u origin main
 # Branch 'main' set up to track remote branch 'main' from 'origin'.
 # Subida completada
 ```
-
----

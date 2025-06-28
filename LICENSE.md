@@ -15,8 +15,15 @@ Este proyecto **"Guía Completa de Git y GitHub"** se distribuye bajo la siguien
 
 **Bajo las siguientes condiciones:**
 
-- **Atribución** — Debes dar crédito a **mxmolano**, proporcionar un enlace a esta licencia e indicar si se han realizado cambios.  
-- **No Comercial** — No puedes utilizar el material para fines comerciales.
+- **Atribución** — Debes dar crédito de forma clara a **mxmolano** como autor(a) original del material. Esto incluye proporcionar un enlace a este repositorio y a la licencia utilizada. También debes indicar si realizaste modificaciones.
+
+- **No Comercial** — No está permitido utilizar este material con fines comerciales sin autorización previa.
+
+---
+
+#### **IMPORTANCIA DE DAR CREDITO**
+Dar crédito es esencial para reconocer el trabajo y el esfuerzo detrás de esta guía. Respetar esta condición fomenta el uso ético y colaborativo del conocimiento compartido.
+
 
 ---
 

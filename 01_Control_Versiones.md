@@ -1,8 +1,6 @@
 # 01. Control de Versiones y Git
 
----
-
-### 📌 Concepto de versión
+## 📌 Concepto de versión
 
 Una **versión** es el estado único de un proyecto en un momento específico. A medida que el proyecto avanza, se generan versiones para registrar el progreso.
 
@@ -14,9 +12,9 @@ Ej. Desarrollo de una Investigacion:
 * v5: Conclusiones
 * v6: Resumen
 
----
+--- 
 
-### 📌 Importancia del control de versiones
+### Importancia del control de versiones
 
 El control de versiones es clave porque:
 
@@ -25,15 +23,15 @@ El control de versiones es clave porque:
 * Evolucionan de forma continua
 
 **Ventajas**:
-- ✅ Acceso a versiones 
-- ✅ Facilita el trabajo en equipo
-- ✅ Mejora la productividad
-- ✅ Copias de seguridad automáticas
-- ✅ Facilita la identificación y reversión de errores
+- Acceso a versiones 
+- Facilita el trabajo en equipo
+- Mejora la productividad
+- Copias de seguridad automáticas
+- Facilita la identificación y reversión de errores
 
 ---
 
-### 📌 Tipos de control de versiones
+### Tipos de control de versiones
 
 **Local**:
 
@@ -56,35 +54,35 @@ El control de versiones es clave porque:
 
 ---
 
-### 📌 ¿Qué es Git?
+## 📌 ¿Qué es Git?
 
 **Git** es un sistema de control de versiones distribuido (creado en 2005 por Linus Torvalds).
 
 Características:
 
-✅ Gratuito
-✅ Eficiente y rápido
-✅ Código abierto
-✅ Manejo avanzado de ramas y fusiones
-✅ Copias completas en cada máquina
+- Gratuito
+- Eficiente y rápido
+- Código abierto
+- Manejo avanzado de ramas y fusiones
+- Copias completas en cada máquina
 
 ---
 
-### 📌 ¿Qué es GitHub?
+## 📌 ¿Qué es GitHub?
 
 **GitHub** es una plataforma en la nube que aloja proyectos usando Git.
 
 Características:
 
-✅ Almacenamiento de proyectos en la nube
-✅ Colaboración y trabajo en equipo
-✅ Gestión de issues y tareas
-✅ CI/CD (Integración / entrega continua)
-✅ Interfaz web amigable
+- Almacenamiento de proyectos en la nube
+- Colaboración y trabajo en equipo
+- Gestión de issues y tareas
+- CI/CD (Integración / entrega continua)
+- Interfaz web amigable
 
 ---
 
-### 📌 Git vs GitHub
+## 📌 Git vs GitHub
 
 | Git                                  | GitHub                                  |
 | ------------------------------------ | --------------------------------------- |
@@ -96,7 +94,7 @@ Características:
 
 ---
 
-### 📌 Creación de cuenta en GitHub
+## 🛠 Creación de cuenta en GitHub
 
 1. Ir a [github.com](https://github.com)
 2. Crear cuenta gratuita
@@ -105,21 +103,20 @@ Características:
 
 ---
 
-### 📌 Instalación de Git
+## 📝 Instalación de Git
 
 En Windows:
 
 1. Descargar: [git-scm.com](https://git-scm.com/)
 2. Ejecutar el instalador (opciones por defecto)
 3. Verificar instalación:
-
-```bash
-git --version
-```
+    ```bash
+    git --version
+    ```
 
 ---
 
-### 📌 Configuración inicial de Git
+## 👀 Configuración inicial de Git
 
 Configurar nombre y correo:
 
