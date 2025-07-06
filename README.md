@@ -29,20 +29,6 @@ No es un curso oficial ni terminado, sino una recopilación personal estructurad
 - Ideal para estudiantes, docentes y autodidactas
 
 ---
-## Contenido por módulos
-
-Cada archivo `.md` representa un módulo. Puedes recorrerlos en orden o consultar el tema que necesites.
-
-| Módulo | Descripción |
-|--------|--------------------------------------|
-| `01_Conceptos.md` | Introducción a Git, GitHub y el control de versiones. |
-| `02_Configuracion.md` | Instalación de Git y configuración inicial del entorno. |
-| `03_Descargar_Repositorios.md` | Clonar repositorios remotos, descargar proyectos y el flujo. |
-| `04_Ramas_Trabajo.md` | Uso de ramas para y buenas prácticas. |
-| `05_Conflictos_Git.md` | Cómo ocurren los conflictos en Git, cómo identificarlos y resolverlos. |
-| `06_Proximamente` | Se subira mas adelante |
-
----
 
 
 ## Público objetivo
@@ -51,15 +37,6 @@ Cada archivo `.md` representa un módulo. Puedes recorrerlos en orden o consulta
 - Estudiantes de programación, desarrollo de software o afines.  
 - Profesionales que deseen adoptar control de versiones en sus proyectos.  
 - Docentes o instituciones educativas que busquen material gratuito y editable.
-
----
-
-## Herramientas utilizadas
-
-- Git  
-- GitHub  
-- Terminal / Shell (Bash, PowerShell, etc.)  
-- Markdown (`.md`) para documentación
 
 ---
 
@@ -75,5 +52,27 @@ Cada archivo `.md` representa un módulo. Puedes recorrerlos en orden o consulta
 ├── 05_Conflictos_Git.md
 ├── LICENSE.md
 ```
+---
+
+## Herramientas utilizadas
+
+- Git  
+- GitHub  
+- Terminal / Shell (Bash, PowerShell, etc.)  
+- Markdown (`.md`) para documentación
+
+---
+## Contenido por módulos
+
+Cada archivo `.md` representa un módulo. Puedes recorrerlos en orden o consultar el tema que necesites.
+
+| Módulo | Descripción |
+|--------|--------------------------------------|
+| `01_Conceptos.md` | Introducción a Git, GitHub y el control de versiones. |
+| `02_Configuracion.md` | Instalación de Git y configuración inicial del entorno. |
+| `03_Descargar_Repositorios.md` | Clonar repositorios remotos, descargar proyectos y el flujo. |
+| `04_Ramas_Trabajo.md` | Uso de ramas para y buenas prácticas. |
+| `05_Conflictos_Git.md` | Cómo ocurren los conflictos en Git, cómo identificarlos y resolverlos. |
+| `06_Proximamente` | Se subira mas adelante |
 
 ---
