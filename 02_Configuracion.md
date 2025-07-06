@@ -26,6 +26,7 @@ GitHub es una plataforma en la nube que te permite almacenar tus repositorios Gi
 
 Git se debe instalar en tu equipo para que puedas trabajar con repositorios localmente.
 
+---
 ### Windows
 
 1. Descargar desde [git-scm.com](https://git-scm.com/download/win)
@@ -37,9 +38,10 @@ Git se debe instalar en tu equipo para que puedas trabajar con repositorios loca
     ```bash
     git --version
 
-    # git version 2.48.1.windows.1 (Esto puede variar)
+    # El número de versión puede variar. Lo importante es que el sistema reconozca el comando sin errores.
     ```
 
+---
 ### MacOS
 
 Para instalar Git en macOS, puedes usar **Homebrew** o permitir que macOS lo instale automáticamente cuando lo necesites.
@@ -61,7 +63,7 @@ Para instalar Git en macOS, puedes usar **Homebrew** o permitir que macOS lo ins
     ```bash
     git --version
 
-    # git version 2.48.1.windows.1 (Esto puede variar)
+    # El número de versión puede variar. Lo importante es que el sistema reconozca el comando sin errores.
     ```
 
 
@@ -71,6 +73,7 @@ Para instalar Git en macOS, puedes usar **Homebrew** o permitir que macOS lo ins
 
     ```bash
     git --version
+
     ```
 2. Acepta la instalación y espera a que finalice.
 
@@ -109,7 +112,7 @@ Cada distribución tiene su estilo, herramientas y forma de instalar programas. 
 
    Eso te dice qué distribución estás usando.
 
-
+--- 
 
 ### Instalación de Git según la distribución
 
@@ -139,7 +142,7 @@ Cada distribución tiene su estilo, herramientas y forma de instalar programas. 
    ```bash
    git --version
 
-   # git version 2.48.1.windows.1 (Esto puede variar)
+   # El número de versión puede variar. Lo importante es que el sistema reconozca el comando sin errores.
    ```
 
 #### Distribucion 2: Fedora (Instalación con `dnf`)
@@ -160,12 +163,10 @@ Cada distribución tiene su estilo, herramientas y forma de instalar programas. 
    ```bash
    git --version
 
-   # git version 2.48.1.windows.1 (Esto puede variar)
+   # El número de versión puede variar. Lo importante es que el sistema reconozca el comando sin errores.
    ```
 
----
-
-### 📦 Arch Linux o Manjaro (Instalación con `pacman`)
+#### Distribucion 3: Arch Linux o Manjaro (Instalación con `pacman`)
 
 1. **Abrir la terminal**.
 
@@ -183,7 +184,7 @@ Cada distribución tiene su estilo, herramientas y forma de instalar programas. 
    ```bash
    git --version
 
-   # git version 2.48.1.windows.1 (Esto puede variar)
+   # El número de versión puede variar. Lo importante es que el sistema reconozca el comando sin errores.
    ```
 
 ---
@@ -256,14 +257,8 @@ Después de instalar Git, debes realizar algunas configuraciones básicas para q
 
 En este resumen se recopilan los pasos esenciales para preparar tu entorno de trabajo con Git y GitHub. Aprendiste a crear una cuenta en GitHub, instalar Git según tu sistema operativo (Windows, macOS o Linux), y realizar las configuraciones iniciales necesarias para comenzar a trabajar con control de versiones de forma correcta y segura. Esta preparación es clave para garantizar una experiencia fluida al colaborar en proyectos de desarrollo.
 
-¡Claro! Aquí tienes la tabla **resumida y clara**, con las **tres distribuciones de Linux agrupadas en una sola fila**, especificando cómo se instala Git en cada una. Ya no se explica lo de la distribución, solo se indica el comando necesario por tipo de sistema operativo:
-
----
-
-## Resumen del modulo
-
-| Sección                               | Descripción Clave                                                                                                                                   |
-| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Contenido | Descripcion Clave              |
+| ----------| ------------------------------ |
 | **Cuenta en GitHub**                  | Crear cuenta gratuita en [GitHub](https://github.com), confirmar correo electrónico y (opcional) activar la autenticación de dos factores (2FA).    |
 | **Instalación en Windows**            | Descargar desde [git-scm.com](https://git-scm.com/download/win), ejecutar el instalador con opciones por defecto y usar **Git Bash** como terminal. |
 | **Instalación en macOS**              | Usar **Homebrew** con `brew install git` o permitir instalación automática al ejecutar `git --version`.                                             |

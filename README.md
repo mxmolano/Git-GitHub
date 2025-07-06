@@ -1,41 +1,65 @@
-# Guía Completa de Git y GitHub
+# 📘 Guía Completa de Git y GitHub
 
-Bienvenid@ a este proyecto educativo que busca ser una **ruta clara, organizada y gratuita** para aprender a usar **Git y GitHub** desde cero.
-Ideal para estudiantes, profesionales y cualquier persona interesada en el desarrollo de software y control de versiones.
+Este repositorio contiene una guía estructurada y en desarrollo para aprender a utilizar **Git y GitHub desde cero**, orientada tanto a principiantes como a estudiantes o profesionales que deseen reforzar su conocimiento.
 
 > [!NOTE]
 > ✨Aquí no se trata solo de memorizar comandos, sino de **entender el flujo de trabajo, practicar y aplicar** en proyectos reales.
 
----
 
-## ¿Qué encontrarás aquí?
-
-Una guía interactiva dividida en módulos progresivos, que incluye:
-* `PROXIMAMENTE`
-
-Todo explicado de forma sencilla, paso a paso.
+Está diseñada como material autodidacta, práctico y progresivo, ideal para acompañar cursos, talleres o procesos de autoformación.
 
 ---
+
+## ¿Por qué fue creada esta guía?
+
+Esta guía fue elaborada mientras yo misma aprendía sobre Git y GitHub. A lo largo del proceso, tomé notas, recopilé comandos importantes y ejemplos útiles, y decidí organizarlos en módulos para poder compartirlos con otras personas que también estén aprendiendo.
+
+No es un curso oficial ni terminado, sino una recopilación personal estructurada como un material educativo para reforzar el aprendizaje.
+
+---
+
+## ¿Qué ofrece este curso?
+
+- Conceptos claros sobre Git y GitHub  
+- Comandos explicados paso a paso  
+- Flujo de trabajo real con ramas y colaboración  
+- Resolución de errores y conflictos comunes  
+- Práctica guiada con ejemplos en terminal  
+- Contenido en español, gratuito y reutilizable  
+- Ideal para estudiantes, docentes y autodidactas
+
+---
+## Contenido por módulos
+
+Cada archivo `.md` representa un módulo. Puedes recorrerlos en orden o consultar el tema que necesites.
+
+| Módulo | Descripción |
+|--------|--------------------------------------|
+| `01_Conceptos.md` | Introducción a Git, GitHub y el control de versiones. |
+| `02_Configuracion.md` | Instalación de Git y configuración inicial del entorno. |
+| `03_Descargar_Repositorios.md` | Clonar repositorios remotos, descargar proyectos y el flujo. |
+| `04_Ramas_Trabajo.md` | Uso de ramas para y buenas prácticas. |
+| `05_Conflictos_Git.md` | Cómo ocurren los conflictos en Git, cómo identificarlos y resolverlos. |
+| `06_Proximamente` | Se subira mas adelante |
+
+---
+
 
 ## Público objetivo
 
-Este proyecto es ideal para:
-
-* Personas **sin experiencia previa** en Git o GitHub.
-* Estudiantes de programación, ingeniería de software o carreras afines.
-* Profesionales que deseen mejorar su flujo de trabajo.
-* Docentes o instituciones que busquen materiales didácticos gratuitos.
+- Personas sin experiencia previa en Git o GitHub.  
+- Estudiantes de programación, desarrollo de software o afines.  
+- Profesionales que deseen adoptar control de versiones en sus proyectos.  
+- Docentes o instituciones educativas que busquen material gratuito y editable.
 
 ---
 
-## Cómo usar esta guía
+## Herramientas utilizadas
 
-Puedes navegar por los módulos y seguir la ruta en orden o ir directamente a los temas que te interesen.
-Cada módulo incluye:
-
-* Explicaciones teóricas
-* Ejemplos prácticos
-* Recursos adicionales
+- Git  
+- GitHub  
+- Terminal / Shell (Bash, PowerShell, etc.)  
+- Markdown (`.md`) para documentación
 
 ---
 
@@ -52,5 +76,4 @@ Cada módulo incluye:
 ├── LICENSE.md
 ```
 
-Esta en proceso
 ---

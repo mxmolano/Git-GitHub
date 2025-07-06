@@ -1,4 +1,4 @@
-# 01 - Introducción a Git y GitHub
+# 01 - Conceptos a Git y GitHub
 
 En este módulo aprenderás las bases de **Git** y **GitHub**, dos herramientas esenciales para el control de versiones y la colaboración en proyectos de software.
 
