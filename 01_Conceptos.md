@@ -14,7 +14,7 @@ Con Git puedes:
 - Volver a versiones anteriores si es necesario.
 - Trabajar de forma segura en equipo o individualmente.
 
-> [!NOTE]
+> [!TIP]
 > 💡Git funciona localmente en tu máquina y no requiere internet para su uso básico..
 
 ---
@@ -83,7 +83,9 @@ Además de alojar el código, ofrece herramientas como:
 - Proyectos para organizar y priorizar el trabajo.
 - Automatizaciones y acciones (GitHub Actions).
 
-💡 *GitHub sí requiere conexión a internet porque trabaja en la nube.*
+> [!TIP]
+> 💡GitHub sí requiere conexión a internet porque trabaja en la nube.
+
 
 ---
 
