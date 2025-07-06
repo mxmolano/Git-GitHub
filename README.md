@@ -2,12 +2,6 @@
 
 Este repositorio contiene una guía estructurada y en desarrollo para aprender a utilizar **Git y GitHub desde cero**, orientada tanto a principiantes como a estudiantes o profesionales que deseen reforzar su conocimiento.
 
-> [!NOTE]
-> ✨Aquí no se trata solo de memorizar comandos, sino de **entender el flujo de trabajo, practicar y aplicar** en proyectos reales.
-
-
-Está diseñada como material autodidacta, práctico y progresivo, ideal para acompañar cursos, talleres o procesos de autoformación.
-
 ---
 
 ## ¿Por qué fue creada esta guía?
@@ -15,6 +9,9 @@ Está diseñada como material autodidacta, práctico y progresivo, ideal para ac
 Esta guía fue elaborada mientras yo misma aprendía sobre Git y GitHub. A lo largo del proceso, tomé notas, recopilé comandos importantes y ejemplos útiles, y decidí organizarlos en módulos para poder compartirlos con otras personas que también estén aprendiendo.
 
 No es un curso oficial ni terminado, sino una recopilación personal estructurada como un material educativo para reforzar el aprendizaje.
+
+> [!NOTE]
+> ✨Aquí no se trata solo de memorizar comandos, sino de **entender el flujo de trabajo, practicar y aplicar** en proyectos reales.
 
 ---
 
