@@ -1,33 +1,23 @@
-# 🚀 Guía Completa de Git y GitHub
+# Guía Completa de Git y GitHub
 
 Bienvenid@ a este proyecto educativo que busca ser una **ruta clara, organizada y gratuita** para aprender a usar **Git y GitHub** desde cero.
 Ideal para estudiantes, profesionales y cualquier persona interesada en el desarrollo de software y control de versiones.
 
-> ✨ Aquí no se trata solo de memorizar comandos, sino de **entender el flujo de trabajo, practicar y aplicar** en proyectos reales.
+> [!NOTE]
+> ✨Aquí no se trata solo de memorizar comandos, sino de **entender el flujo de trabajo, practicar y aplicar** en proyectos reales.
 
 ---
 
-## 📚 ¿Qué encontrarás aquí?
+## ¿Qué encontrarás aquí?
 
 Una guía interactiva dividida en módulos progresivos, que incluye:
-
-* 🗂️ **Conceptos básicos de control de versiones**
-* 🔍 **Qué es Git y cómo funciona**
-* 🌐 **Qué es GitHub y cómo aprovecharlo**
-* 🚀 **Configuración inicial y primeros pasos**
-* 🔄 **Manejo de repositorios: local y remoto**
-* 📥 **Cómo clonar y descargar repositorios**
-* 🌱 **Uso y gestión de ramas de trabajo**
-* ⚔️ **Cómo resolver conflictos de Git**
-* 🛠️ **Comandos esenciales de Git**
-* 👥 **Flujo de trabajo colaborativo**
-* 💡 **Buenas prácticas en control de versiones**
+* `PROXIMAMENTE`
 
 Todo explicado de forma sencilla, paso a paso.
 
 ---
 
-## 👩‍💻 Público objetivo
+## Público objetivo
 
 Este proyecto es ideal para:
 
@@ -38,18 +28,18 @@ Este proyecto es ideal para:
 
 ---
 
-## 🛠️ Cómo usar esta guía
+## Cómo usar esta guía
 
 Puedes navegar por los módulos y seguir la ruta en orden o ir directamente a los temas que te interesen.
 Cada módulo incluye:
 
-* ✅ Explicaciones teóricas
-* ✅ Ejemplos prácticos
-* ✅ Recursos adicionales
+* Explicaciones teóricas
+* Ejemplos prácticos
+* Recursos adicionales
 
 ---
 
-## 📦 Estructura del repositorio
+## Estructura del repositorio
 
 ```bash
 .
@@ -62,4 +52,5 @@ Cada módulo incluye:
 ├── LICENSE.md
 ```
 
+Esta en proceso
 ---

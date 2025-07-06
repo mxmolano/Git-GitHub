@@ -1,10 +1,10 @@
-# 📌 01 - Introducción a Git y GitHub
+# 01 - Introducción a Git y GitHub
 
 En este módulo aprenderás las bases de **Git** y **GitHub**, dos herramientas esenciales para el control de versiones y la colaboración en proyectos de software.
 
 ---
 
-## 🚀 ¿Qué es Git?
+## ¿Qué es Git?
 
 Git es un **sistema de control de versiones distribuido**.  
 Permite que varias personas trabajen en el mismo proyecto al mismo tiempo sin sobrescribir los cambios de los demás.  
@@ -14,10 +14,11 @@ Con Git puedes:
 - Volver a versiones anteriores si es necesario.
 - Trabajar de forma segura en equipo o individualmente.
 
-💡 *Git funciona localmente en tu máquina y no requiere internet para su uso básico.*
+> [!NOTE]
+> 💡Git funciona localmente en tu máquina y no requiere internet para su uso básico..
 
 ---
-### 🔍 Concepto de versión
+### Concepto de versión
 
 Una **versión** es el estado único de un proyecto en un momento específico. A medida que el proyecto avanza, se generan versiones para registrar el progreso.
 
@@ -32,7 +33,7 @@ Ej. Desarrollo de una Investigacion:
 
 ---
 
-### :coffee: Importancia del control de versiones
+### Importancia del control de versiones
 
 El control de versiones es clave porque:
 
@@ -72,7 +73,7 @@ El control de versiones es clave porque:
 
 ---
 
-## 🌐 ¿Qué es GitHub?
+## ¿Qué es GitHub?
 
 GitHub es una **plataforma en la nube** que almacena repositorios Git y facilita el trabajo colaborativo.  
 Además de alojar el código, ofrece herramientas como:
@@ -86,7 +87,7 @@ Además de alojar el código, ofrece herramientas como:
 
 ---
 
-## :+1: Diferencias entre Git y GitHub
+## Diferencias entre Git y GitHub
 
 | Git | GitHub |
 |------|--------|
@@ -97,7 +98,7 @@ Además de alojar el código, ofrece herramientas como:
 
 ---
 
-## 🤝 Ventajas de usarlos juntos
+## Ventajas de usarlos juntos
 
 - Permiten trabajar en equipo de forma ordenada y segura.
 - Tu proyecto queda respaldado en la nube.
@@ -105,5 +106,22 @@ Además de alojar el código, ofrece herramientas como:
 - Facilitan la colaboración mediante revisiones de código y pull requests.
 
 ---
+## Resumen del modulo
+
+En este resumen se recopilan los conceptos fundamentales vistos en el módulo, ofreciendo una visión clara y concisa de qué es Git, qué es GitHub, cómo se diferencian y por qué su uso conjunto es esencial para el desarrollo colaborativo de software.
+
+| Contenido | Descripcion Clave              |
+| ----------| ------------------------------ |
+| **Git**                  | Control de versiones local y distribuido. Registra cambios y permite colaboración. |
+| **Versión**              | Estado guardado del proyecto en un momento específico.                             |
+| **Control de versiones** | Orden, historial, trabajo en equipo y recuperación de errores.                     |
+| **Tipos**                | Local, centralizado y distribuido (Git).                                           |
+| **GitHub**               | Plataforma en la nube para alojar y colaborar en proyectos Git.                    |
+| **Git vs GitHub**        | Git es la herramienta, GitHub es la plataforma.                                      |
+| **Uso conjunto**         | Desarrollo local + respaldo y colaboración en la nube.                             |
+
+---
 
 ➡ **Siguiente módulo recomendado:** [02_Configuracion.md](02_Configuracion.md)
+
+---
