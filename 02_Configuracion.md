@@ -1,4 +1,4 @@
-# 02 - Configuración
+# 02 - Configuración inicial
 
 En este módulo configurarás todo lo necesario para comenzar a trabajar con Git y GitHub, incluyendo la creación de cuenta, la instalación del software y su configuración básica. Estos pasos iniciales aseguran que tu entorno esté listo para gestionar versiones de forma eficiente y colaborar en proyectos.
 
